@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:testtask/modules/home/widgets/desktop_body.dart';
 import 'package:testtask/modules/home/widgets/header.dart';
 import 'package:testtask/modules/home/widgets/menu.dart';
